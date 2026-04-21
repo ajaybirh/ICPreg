@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Dataset files (download separately from PhysioNet CHARIS database)
+Data/
